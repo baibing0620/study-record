@@ -1,0 +1,23 @@
+{
+  "name": "study-record",
+  "version": "1.0.0",
+  "description": "study-record",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baibing0620/study-record.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baibing0620/study-record/issues"
+  },
+  "homepage": "https://github.com/baibing0620/study-record#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
